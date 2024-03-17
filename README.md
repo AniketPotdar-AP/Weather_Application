@@ -6,7 +6,7 @@ The weather application project built in React utilizes weather APIs to fetch re
 
 ## Demo
 
-https://master--react-apexcharts.netlify.app/
+https://weatherappllicaton.netlify.app/
 
 
 ## API Reference
